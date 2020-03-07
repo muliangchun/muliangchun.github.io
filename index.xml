@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>木良醇的官方网站</title>
-    <link>https://muliangchun.top/</link>
+    <link>https://muliangchun.github.io/</link>
     <description>Recent content on 木良醇的官方网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; ZY ❤️ZY</copyright>
     
-	<atom:link href="https://muliangchun.top/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://muliangchun.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
